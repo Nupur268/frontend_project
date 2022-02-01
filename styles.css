@@ -100,7 +100,8 @@ body {
 }
 @media (max-width: 415px) and (min-width: 300px) {
   #save {
-    padding: 12% 0% 7% 2%;
+    padding-left: 10px;
+    padding-top: 40px;
   }
 }
 .health-heading {
@@ -208,7 +209,7 @@ body {
 }
 @media (max-width: 415px) and (min-width: 300px) {
   #education {
-    padding: 1% 0% 2% 8%;
+    padding: 5% 0% 2% 8%;
   }
 }
 
